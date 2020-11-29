@@ -1,0 +1,17 @@
+/**
+ * @name WALL KK- 
+ * @description Use a background image in Discord without greatly altering the basic look of Discord
+ * @author TOR
+ * @version 1.0.0
+ * @authorId 616223312628023296
+ * @invite F8V8T5e
+ * @donate https://www.paypal.me/fulan9998
+ * @website https://github.com/GUGSUSE/bot-4
+ */
+ /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
+ :root {
+    --background:					url(https://imgur.com/K6hx2Or.gif);	/* general background image						*/
+	--backgroundsize:				cover;						/* default: cover				(sizefit of general background - values: [cover/contain/auto])					*/ 
+    --version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
+}
+
